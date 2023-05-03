@@ -1,0 +1,4 @@
+string : a str is a imuutable collection of character 
+
+
+
