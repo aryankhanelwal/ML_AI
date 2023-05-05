@@ -54,3 +54,4 @@ while notCaptured:
     sleep(0.1)
 vid.release()
 cv2.destroyAllWindows()
+#3sadasdas
